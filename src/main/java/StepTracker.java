@@ -6,7 +6,7 @@ public class StepTracker
   private int numDays; 
   private int numActiveDays; 
 
-  public Steptracker(int threshold)
+  public StepTracker(int threshold)
   { 
    minSteps = threshold; 
    totalSteps = 0; 
